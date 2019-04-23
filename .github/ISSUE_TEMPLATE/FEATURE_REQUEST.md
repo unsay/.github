@@ -5,7 +5,9 @@ about: Suggest an idea or feature for this project.
 
 ### Is your feature request related to a problem? Please describe.
 
-_A clear and concise description of what the problem is. e.g. I'm always frustrated when [...]_
+_A clear and concise description of what the problem is. e.g.
+
+> When __________ I want to __________ so I can __________.
 
 ### Describe the solution you'd like
 
